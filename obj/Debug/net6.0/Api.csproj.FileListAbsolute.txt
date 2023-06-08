@@ -1,0 +1,15 @@
+C:\Users\josee\Documents\TESTES\Api\bin\Debug\net6.0\Api.exe
+C:\Users\josee\Documents\TESTES\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\josee\Documents\TESTES\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\josee\Documents\TESTES\Api\bin\Debug\net6.0\Api.dll
+C:\Users\josee\Documents\TESTES\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.dll
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\josee\Documents\TESTES\Api\obj\Debug\net6.0\ref\Api.dll
